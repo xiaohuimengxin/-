@@ -1,0 +1,9 @@
+Pillow>=10.0.0
+ffmpeg-python>=0.2.0
+py2app>=0.28.0
+setuptools>=65.5.1
+wheel>=0.38.4
+PyQt5>=5.15.0
+opencv-python
+numpy 
+pip install pyobjc-framework-Cocoa 
